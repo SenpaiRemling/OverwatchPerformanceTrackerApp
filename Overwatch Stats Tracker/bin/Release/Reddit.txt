@@ -1,0 +1,70 @@
+**Screenshots**
+
+[Homescreen](http://i.share.pho.to/b0645d6c_o.png)
+
+[Add Match](http://i.share.pho.to/d19f0dab_o.png)
+
+[Hero Statistics](http://i.share.pho.to/b6176015_o.png)
+
+
+---
+
+
+**Download Links**
+
+[Tool](http://www.mediafire.com/file/3cqs8cbvergb8ho/Overwatch+Stats+Tracker.exe)
+
+[.Net Framework](https://www.microsoft.com/en-gb/download/details.aspx?id=30653)
+
+
+---
+
+**What is it?**
+
+I Recently saw a post from the user "MasterDex" about his performance tracker made in excel and i thought about it and decided to make one myself for people who dont like or dont want to use excel for this. So the idea is the same as in his project. You Insert your match statistics after every ranked game and the tool will calculate your stats for different scenarios. 
+
+Everything i will explain now is also included in the tool so you dont have to open this discussion everytime.
+
+**Add Match** 
+
+This is the place where you add your match after you played it. you will have to insert things like if it was a win, lose or draw, how much sr you lost/won and so on. if you want a more detailed explanation, go to the how to tab in the tool and just read through it.
+
+**Hero Statistics**
+
+Shows you your statistics about every hero.
+
+**Map Statistics**
+
+Shows you your statistics about every map
+
+**Hero Stats per map**
+
+Shows you the hero statistics per map, you just select a map and scroll through the heroes and their stats.
+
+**Other statistics**
+
+Other statistics is devided in 3 categories:
+
+* **Totoal Statistics** 
+
+A Summary of all your Statistics, like total games (wins/losses/draws), highest sr, lowest sr and so on. 
+
+* **Group Statistics**
+
+Statistics about all group sizes, from 1-6
+
+* **Time Statistics**
+
+Statistics about all times of day you played on.
+
+---
+
+i made this tool in about 30-40h, since its one of my first larger projects i know it could contain some bugs, i tried to fix as many of them as possible, if you find one write them here or write me an email (you find the email in 'About'), if you have any ideas or Suggestions for improvement, write it down here or email me. 
+
+---
+
+On more note, english isnt my main language so if you find any mistakes i made just tell me so i can fix it :). And this is also one of my first Discussions i created on reddit so if something isnt like it should be tell me so i can fix it ^_^.
+
+Anyway i hope you like the tool and it helps you climp or atleast helps you improve yourself. 
+
+

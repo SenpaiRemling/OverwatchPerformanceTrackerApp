@@ -1,0 +1,12 @@
+C:\Users\Remling\Documents\Overwatch Stats Tracker\Overwatch Stats Tracker\bin\Release\Overwatch Stats Tracker.exe.config
+C:\Users\Remling\Documents\Overwatch Stats Tracker\Overwatch Stats Tracker\bin\Release\Overwatch Stats Tracker.exe
+C:\Users\Remling\Documents\Overwatch Stats Tracker\Overwatch Stats Tracker\bin\Release\Overwatch Stats Tracker.pdb
+C:\Users\Remling\Documents\Overwatch Stats Tracker\Overwatch Stats Tracker\bin\Release\Newtonsoft.Json.dll
+C:\Users\Remling\Documents\Overwatch Stats Tracker\Overwatch Stats Tracker\bin\Release\Newtonsoft.Json.xml
+C:\Users\Remling\Documents\Overwatch Stats Tracker\Overwatch Stats Tracker\obj\Release\Overwatch_Stats_Tracker.Form1.resources
+C:\Users\Remling\Documents\Overwatch Stats Tracker\Overwatch Stats Tracker\obj\Release\Overwatch_Stats_Tracker.Properties.Resources.resources
+C:\Users\Remling\Documents\Overwatch Stats Tracker\Overwatch Stats Tracker\obj\Release\Overwatch_Stats_Tracker.Saved.resources
+C:\Users\Remling\Documents\Overwatch Stats Tracker\Overwatch Stats Tracker\obj\Release\Overwatch Stats Tracker.csproj.GenerateResource.Cache
+C:\Users\Remling\Documents\Overwatch Stats Tracker\Overwatch Stats Tracker\obj\Release\Overwatch Stats Tracker.exe
+C:\Users\Remling\Documents\Overwatch Stats Tracker\Overwatch Stats Tracker\obj\Release\Overwatch Stats Tracker.pdb
+C:\Users\Remling\Documents\Overwatch Stats Tracker\Overwatch Stats Tracker\obj\Release\Overwatch Stats Tracker.csprojResolveAssemblyReference.cache
